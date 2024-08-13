@@ -72,4 +72,4 @@ This project is a prototype, and further research and collaboration with stakeho
 
 
 ## Acknowledgments
-I thank all contributors and stakeholders for their invaluable input and support in developing this project. Special thanks to the open-source community for providing tools and resources that made this project possible.
+I thank all contributors for their invaluable input and support in developing this project. Special thanks to the open-source community for providing tools and resources that made this project possible.
